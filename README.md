@@ -19,7 +19,7 @@ I'm a full-stack developer with hands-on experience building complete, productio
 - 🔭 Currently working on: expanding my project portfolio
 - 🌱 Learning: TypeScript, Next.js, deployment & DevOps basics
 - 💼 Open to: Full-stack / frontend / backend roles and freelance projects
-- 📍 Based in Jamnagar, Gujarat, India
+- 📍 Based in Idar, Gujarat, India
 
 ---
 
