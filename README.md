@@ -81,7 +81,7 @@ Handles a **sit-down restaurant** and a **self-order cafe** under one system wit
 ### 🎓 [College Management System](https://github.com/HitChaudhary/college-Management)
 > Digital system replacing manual college paperwork
 
-`React` `Node.js` `MongoDB` `Express` • **[Live Demo →](https://college-management-rho.vercel.app)**
+`React` `Node.js` `MongoDB` `Express` • **[Live Demo →](https://college-management-web.vercel.app)**
 
 ---
 
