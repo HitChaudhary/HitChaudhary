@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Hit+Chaudhary+👋;Full-Stack+MERN+%26+AI-Native+Dev;Building+Scalable+Real-World+Apps" alt="Typing SVG" />
-  </a>
+  <!-- Clean & Modern Static Banner Header -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=Hit%20Chaudhary&fontSize=42&fontColor=58a6ff&animation=fadeIn&stroke=388bfd&strokeWidth=1" width="100%" alt="Hit Chaudhary Header" />
 
   <p align="center">
-    <b>Full-Stack MERN Developer</b> • Specializing in Multi-Tenant Architectures & Business Tools
+    <b>Full-Stack MERN Developer</b> • Building Scalable Multi-Tenant Platforms & AI-Native Tools
   </p>
 
   <!-- Modern Connect Badges -->
@@ -30,10 +28,10 @@
 
 I'm a full-stack engineer passionate about building high-performance, production-ready web platforms. I specialize in solving complex operational challenges—such as multi-tenant architecture, automated workflows, inventory controls, and real-time state management—and translating them into seamless digital solutions.
 
-- 🔭 **Currently Building:** Multi-tenant SaaS products and modern full-stack platforms.
-- 💡 **Passionate About:** Artificial Intelligence, RAG Workflows, & Prompt Engineering.
-- 🌱 **Learning & Refining:** TypeScript, Next.js, Docker, & Cloud Deployment (DevOps).
-- 💼 **Open To:** Full-Stack / Frontend / Backend Engineering Roles & Selective Client Collaborations.
+- 🔭 **Currently Building:** Multi-tenant SaaS products and modern full-stack platforms
+- 💡 **Passionate About:** Artificial Intelligence, RAG Workflows, & Prompt Engineering
+- 🌱 **Learning & Refining:** TypeScript, Next.js, Docker, & Cloud Deployment (DevOps)
+- 💼 **Open To:** Full-Stack / Frontend / Backend Engineering Roles & Freelance Projects
 - 📍 **Location:** Idar, Gujarat, India
 
 ---
@@ -42,7 +40,7 @@ I'm a full-stack engineer passionate about building high-performance, production
 
 <div align="center">
 
-| Area | Technologies & Tools |
+| Layer | Technologies & Frameworks |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
@@ -60,7 +58,7 @@ I'm a full-stack engineer passionate about building high-performance, production
 
 * **Key Highlights:**
   * **Role-Based Governance:** 3-tier auth pipeline (Super Admin, Admin, Cashier) with distinct privilege scopes.
-  * **Data Isolation:** Enterprise-grade multi-tenancy enforcing `adminId` isolation across all business queries.
+  * **Data Isolation:** Multi-tenancy enforcing strict `adminId` database isolation across business queries.
   * **Smart POS Workflows:** Advanced product filtering (Category → Subcategory → Brand), dynamic GST calculations, & cargo damage write-offs.
 
 `React 19` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS v4` • **[Live Demo ↗](https://supermart-pos-zji3.vercel.app/login)**
@@ -99,9 +97,9 @@ I'm a full-stack engineer passionate about building high-performance, production
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-I am actively open to discussing full-time opportunities, engineering roles, and innovative project collaborations.
+I am actively open to discussing full-time opportunities, engineering roles, and project collaborations.
 
 <div align="center">
 
@@ -113,5 +111,5 @@ I am actively open to discussing full-time opportunities, engineering roles, and
 <br />
 
 <div align="center">
-  <sub>Built with precision, React, Node.js, and plenty of chai ☕</sub>
+  <sub>Built with React, Node.js, and plenty of chai ☕</sub>
 </div>
