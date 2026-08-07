@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a full-stack engineer focused on building scalable, production-grade business platforms and product-based software. I specialize in solving complex operational problems—multi-tenant architectures, database optimization, inventory controls, and real-time state management—and transforming them into high-performance web systems.
+I'm a full-stack engineer focused on building scalable, production-grade business platforms and product-based software. I specialize in solving complex operational problems—multi-tenant architectures, real-time systems, and data-driven dashboards.
 
 - 🔭 **Currently Building:** Product-based applications & multi-tenant SaaS platforms
 - 🛠️ **Core Database Stack:** MongoDB & PostgreSQL (Prisma ORM)
@@ -34,6 +34,7 @@ I'm a full-stack engineer focused on building scalable, production-grade busines
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Tools**
@@ -46,6 +47,22 @@ I'm a full-stack engineer focused on building scalable, production-grade busines
 ---
 
 ## 🚀 Featured Projects
+
+### 🎓 [Zubi Dubi School ERP](https://github.com/HitChaudhary/zubi-dubi-school-erp)
+> Modern SaaS School ERP and Online Learning Platform
+
+A comprehensive school management and online learning system built with the MERN stack featuring multi-role access, real-time updates, and an interactive learning environment.
+
+- Multi-role login system (Admin / Teacher / Student / Parent)
+- School management: Classes, Sections, Timetable, Attendance
+- Online learning portal with assignments and assessments
+- Student progress tracking and report generation
+- Real-time notifications and messaging system
+- Mobile-first responsive design
+
+`React 19` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS v4`
+
+---
 
 ### 🛒 [SuperMart POS](https://github.com/HitChaudhary/Supermart-POS)
 > Multi-tenant Point of Sale system for retail businesses
@@ -108,4 +125,3 @@ I'm actively looking for opportunities — if you're building something interest
 <div align="center">
 <sub>Built with React, Node.js, and a lot of chai ☕</sub>
 </div>
-   updTE ONLT ABOUT ME add postgresql , starting on prodcut based proejct
