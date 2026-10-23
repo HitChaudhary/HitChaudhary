@@ -17,8 +17,8 @@
 I'm a full-stack developer who builds secure, multi-tenant web applications, from database design and REST APIs to a polished React frontend and live deployment. I completed a MERN internship delivering 4+ client projects, and I've independently built and deployed three full-stack apps with JWT authentication and role-based access control.
 
 - 🔭 **Currently Building:** Multi-tenant SaaS platforms and product-based applications
-- 🛠️ **Core Stack:** React, Node.js, Express, TypeScript, MongoDB, PostgreSQL (Prisma / Drizzle ORM)
-- 🌱 **Learning & Refining:** Next.js, Docker, and DevOps fundamentals
+- 🛠️ **Core Stack:** React, Node.js, Express, TypeScript, MongoDB, PostgreSQL
+- 🌱 **Learning & Refining:** python , typescript fundamentals
 - 💼 **Open To:** Full-Stack / React & Node.js / Software Developer roles
 - 📍 **Based in:** Idar, Gujarat, India
 
